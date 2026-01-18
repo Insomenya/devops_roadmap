@@ -4,6 +4,8 @@
 
 ![Roadmap](./roadmap.png)
 
+Сгенерирован мной с помощью Claude Opus 4.5 и Nano Banana Pro.
+
 ## Стек
 
 <p>
